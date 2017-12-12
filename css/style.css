@@ -14,9 +14,9 @@ body {
 }
 
 nav {
-  margin: 0 auto;
-  position: static;
-  width: 100%;
+  width: 420px;
+  position: fixed;
+  top: 0px;
 }
 
 h1 {
@@ -34,13 +34,13 @@ h3 {
 .arrow-left {
   background-color: black;
   padding: 20px;
-  width: 100%;
 }
 
 .restaurant-list {
   background-color: none;
   padding-top: 0px;
   width: 100%;
+  margin-top: 60px;
 }
 
 .arrow {
@@ -57,7 +57,7 @@ h3 {
   background-color: #DBD9DB;
   text-decoration: none;
   display: block;
-  padding: 10px;
+  padding: 20px;
   margin: 1px;
 }
   .location:hover
