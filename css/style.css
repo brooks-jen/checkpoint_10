@@ -60,7 +60,6 @@ h3 {
   padding: 20px;
   margin: 1px;
 }
-  .location:hover
-  { color:#808080;
-    opacity: 0.6;
+  .location:hover {
+    background-color: #808080;
     } /* mouse over */
